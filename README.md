@@ -1,5 +1,6 @@
 # Sital - Professional Portfolio
 
+<<<<<<< HEAD
 A modern, responsive, and feature-rich personal portfolio website built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.
 
 ## 🎯 Overview
@@ -276,3 +277,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 **Built with ❤️ using React, TypeScript, and Tailwind CSS**
+=======
+  
+>>>>>>> d01d8a29e1bafc0664250f062ab892c5b80a25bd
